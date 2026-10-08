@@ -11,7 +11,7 @@ This repository contains the experiment code used in a Japanese article series o
 | 1 | [How category theory is used in optimizing Haskell](https://qiita.com/etale_cohomology/items/3377a23e45960eee4f25) |
 | 2 | [Do the eight optimizations derived from category theory work outside Haskell?](https://qiita.com/etale_cohomology/items/79d8d6cf42f02fa80b7b) |
 | 3 | [Optimizing proof languages from a categorical view: proofs disappear at runtime](https://qiita.com/etale_cohomology/items/7fdfc9088d24778e5ed9) |
-| 4 | Where do categorical insights produce speed and correctness in finance, insurance, robotics, cryptography, and machine learning? |
+| 4 | [Where do categorical insights produce speed and correctness in finance, insurance, robotics, cryptography, and machine learning?](https://qiita.com/etale_cohomology/items/2a69f1b8ba76abf35294) |
 
 ## How to run
 
@@ -76,7 +76,7 @@ Qiita の連載記事で行った実機検証を、再現できる形で公開�
 | 初回 | [Haskell の最適化に圏論はどう使われているか](https://qiita.com/etale_cohomology/items/3377a23e45960eee4f25) |
 | 第2回 | [圏論から導かれた8つの高速化の手法は、Haskell の外でも効くのか](https://qiita.com/etale_cohomology/items/79d8d6cf42f02fa80b7b) |
 | 第3回 | [圏論から考える定理証明言語の最適化 ── 証明は実行時に消える](https://qiita.com/etale_cohomology/items/7fdfc9088d24778e5ed9) |
-| 第4回 | 圏論の知見は、金融・保険・ロボティクス・暗号・機械学習のどこで速さと正しさを生むのか |
+| 第4回 | [圏論は産業で役に立つのか ── 金融・保険・ロボティクス・暗号・機械学習で検証する](https://qiita.com/etale_cohomology/items/2a69f1b8ba76abf35294) |
 
 ## 動かし方
 
